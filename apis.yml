@@ -1,0 +1,38 @@
+aid: gatling
+name: Gatling
+description: >-
+  Gatling is an open source load and performance testing framework for web applications and APIs with a Scala-based DSL and detailed HTML reports.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Testing
+  - Load Testing
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/gatling/refs/heads/main/apis.yml
+created: '2026-03-25'
+modified: '2026-03-25'
+specificationVersion: '0.19'
+apis:
+  - aid: gatling:gatling
+    name: Gatling
+    description: >-
+      Gatling is an open source load and performance testing framework for web applications and APIs with a Scala-based DSL and detailed HTML reports.
+    humanURL: https://gatling.io
+    tags:
+      - Testing
+      - Load Testing
+    properties:
+      - type: Documentation
+        url: https://docs.gatling.io
+      - type: GitHub Repository
+        url: https://github.com/gatling/gatling
+common:
+  - type: Website
+    url: https://gatling.io
+  - type: Documentation
+    url: https://docs.gatling.io
+  - type: GitHub Organization
+    url: https://github.com/gatling/gatling
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
