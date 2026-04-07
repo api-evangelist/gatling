@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - Load Testing
+  - Testing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gatling/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Gatling is an open source load and performance testing framework for web applications and APIs with a Scala-based DSL and detailed HTML reports.
     humanURL: https://gatling.io
     tags:
-      - Testing
       - Load Testing
+      - Testing
     properties:
       - type: Documentation
         url: https://docs.gatling.io
