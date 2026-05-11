@@ -59,6 +59,13 @@ common:
     url: https://github.com/gatling
   - type: Products
     url: https://gatling.io/products/
+  - type: Integrations
+    url: https://gatling.io/integrations
+integrations:
+  - name: Logo Gatling
+  - name: Certification Leader
+  - name: Certification Momentum Leader
+  - name: Certification High Performer
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
