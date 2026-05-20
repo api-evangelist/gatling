@@ -51,6 +51,8 @@ apis:
       - type: Authentication
         url: https://docs.gatling.io/reference/api/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/gatling
   - type: Website
     url: https://gatling.io
   - type: Documentation
