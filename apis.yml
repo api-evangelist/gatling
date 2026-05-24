@@ -63,6 +63,8 @@ common:
     url: https://gatling.io/products/
   - type: Integrations
     url: https://gatling.io/integrations
+  - type: LLMsTxt
+    url: https://docs.gatling.io/llms.txt
 integrations:
   - name: Logo Gatling
   - name: Certification Leader
