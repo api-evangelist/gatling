@@ -51,6 +51,10 @@ apis:
       - type: Authentication
         url: https://docs.gatling.io/reference/api/
 common:
+  - type: TrustCenter
+    url: security/gatling-trust-center.yml
+  - type: DomainSecurity
+    url: security/gatling-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/gatling
   - type: Website
