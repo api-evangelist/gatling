@@ -63,6 +63,13 @@ apis:
       - type: Authentication
         url: https://docs.gatling.io/reference/api/
 common:
+  - type: IssueTracker
+    url: https://github.com/gatling/gatling/issues
+  - type: ContributionGuide
+    url: https://github.com/gatling/gatling/blob/main/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/gatling/gatling/blob/main/LICENSE
   - type: TrustCenter
     url: security/gatling-trust-center.yml
   - type: DomainSecurity
