@@ -1,0 +1,32 @@
+# Front Door AI Index — gatling — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: gatling
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: gatling.io
+  final_host: gatling.io
+  ownership: own
+  owner: gatling
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 24
+  host_score: 24
+  density: 10.85
+  words: 2211
+  tiers:
+    agentic: 4
+    core: 19
+    model: 1
+  ambiguous: 9
+  top_terms:
+    AI: 18
+    intelligence: 4
+    MCP: 3
+    agent: 3
+    automation: 2
+    Claude: 1
+    inference: 1
+    large language model: 1
