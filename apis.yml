@@ -38,7 +38,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gatling/refs/heads/main/apis.yml
 created: '2026-03-25'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: gatling:gatling
@@ -75,6 +75,10 @@ apis:
       - type: Authentication
         url: https://docs.gatling.io/reference/api/
 common:
+  - url: https://gatling.io/updates
+    type: Blog
+  - url: https://gatling.io/updates/rss.xml
+    type: BlogRSS
   - type: IssueTracker
     url: https://github.com/gatling/gatling/issues
   - type: ContributionGuide
