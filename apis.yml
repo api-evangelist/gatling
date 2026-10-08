@@ -75,6 +75,12 @@ apis:
       - type: Authentication
         url: https://docs.gatling.io/reference/api/
 common:
+  - type: Plans
+    url: plans/gatling-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/gatling-rate-limits.yml
+  - type: FinOps
+    url: finops/gatling-finops.yml
   - url: https://gatling.io/updates
     type: Blog
   - url: https://gatling.io/updates/rss.xml
