@@ -66,20 +66,104 @@
 
 Gatling is an open source load and performance testing framework for web applications and APIs with a Scala-based DSL and detailed HTML reports. The Gatling Enterprise Edition exposes a public REST API for triggering runs and fetching run results and metrics.
 
-## APIs
+**Areas:** Load Testing · Performance Testing · Testing
 
-- [Gatling](https://gatling.io) - Open source load and performance testing framework with a Scala-based DSL and detailed HTML reports.
-- [Gatling Enterprise Public API](https://docs.gatling.io/reference/api/) - REST API for triggering runs and retrieving run metadata and percentile performance summaries.
+## Gatling on APIs.io
 
-## Common Properties
+Everything profiled for Gatling is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gatling/](https://apis.io/providers/gatling/)** — or go straight to one of the APIs or properties below.
 
-| Property | URL |
-|----------|-----|
-| Website | https://gatling.io |
-| Documentation | https://docs.gatling.io |
-| GitHub | https://github.com/gatling |
-| Products | https://gatling.io/products/ |
+### APIs (2)
 
-## Maintainers
+- [Gatling](https://apis.io/apis/gatling/gatling/) — Gatling is an open source load and performance testing framework for web applications and APIs with a Scala-based DSL and detailed HTML reports.
+- [Gatling Enterprise Public API](https://apis.io/apis/gatling/gatling-enterprise/) — The Gatling Enterprise Edition public API enables you to trigger runs or fetch run results and metrics, including run metadata and performance percentile…
 
-- **Kin Lane** - kin@apievangelist.com
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gatling Domain Security](https://apis.io/security/gatling/gatling-domain-security/)
+- [Gatling Trust Center](https://apis.io/security/gatling/gatling-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gatling Plans Pricing](https://apis.io/plans/gatling/gatling-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gatling Rate Limits](https://apis.io/rate-limits/gatling/gatling-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Gatling Finops](https://apis.io/finops/gatling/gatling-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gatling.io)
+- [Documentation](https://docs.gatling.io)
+- [Blog](https://gatling.io/updates)
+- [GitHub](https://github.com/gatling)
+
+## API Evangelist rating
+
+**Kin Score 16.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 15.8 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gatling/](https://apis.io/providers/gatling/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gatling: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gatling/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
